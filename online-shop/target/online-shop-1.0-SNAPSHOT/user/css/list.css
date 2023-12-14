@@ -1,0 +1,30 @@
+.test {margin: 0; padding: 0;}
+div.test1 {
+    margin: 20px;
+}
+ul.test2 {
+    list-style-type: none;
+    width: 800px;
+}
+h3.test3 {
+    font: bold 20px/1.5 Helvetica, Verdana, sans-serif;
+}
+li img.test4 {
+    float: left;
+    margin: 0 15px 0 0;
+}
+li p.test5 {
+    font: 200 15px/1.5 Georgia, Times New Roman, serif;
+}
+li.test6 {
+    padding: 15px;
+    overflow: auto;
+}
+li.test6:hover {
+    background: #eee;
+    cursor: pointer;
+}
+a,a:visited,a:link.test7{
+    text-decoration: none;
+    color:black;
+}
